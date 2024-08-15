@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="Profile" android:id="@+id/btnProfile" android:icon="@drawable/outline_person"/>
+    <item android:title="About" android:id="@+id/btnAbout" android:icon="@drawable/baseline_chat"/>
+    <item android:title="Follow Us" android:id="@+id/btnFollowUs" android:icon="@drawable/baseline_alternate_email"/>
+
+
+</menu>

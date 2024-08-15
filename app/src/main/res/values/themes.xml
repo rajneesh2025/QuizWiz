@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.QuizWiz" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="windowActionBarOverlay">true</item>
+    </style>
+
+    <style name="Base.Theme.QuizWiz.ActionBar" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/purple</item>
+
+        <item name="windowActionBarOverlay">true</item>
+    </style>
+
+    <style name="Theme.QuizWiz" parent="Base.Theme.QuizWiz" />
+</resources>
